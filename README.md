@@ -26,6 +26,8 @@ configs:
 
 # Race.mx Mexican Motorsport Open Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22833281.svg)](https://doi.org/10.5281/zenodo.22833281)
+
 Open data on motorsport in Mexico, published by [Race.mx](https://race.mx), an independent English-language guide to racing in Mexico:
 
 - **Winners history**: every Formula 1 Mexican / Mexico City Grand Prix since 1962, Baja 1000 overall winners since 1967, Baja 500 winners since 2010, every Formula E Mexico City E-Prix, and NASCAR Mexico Series champions since 2004.
@@ -66,7 +68,9 @@ To refresh the snapshot, run `scripts/update.sh`.
 
 ## Citation
 
-> Race.mx (2026). *Race.mx Mexican Motorsport Open Data*. https://race.mx/open-data/
+> Race.mx (2026). *Race.mx Mexican Motorsport Open Data*. Zenodo. https://doi.org/10.5281/zenodo.22833281
+
+The DOI above always resolves to the newest snapshot; each release also has its own version DOI on Zenodo.
 
 See `CITATION.cff` for machine-readable citation metadata.
 
