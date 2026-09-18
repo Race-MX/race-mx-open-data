@@ -1,0 +1,13 @@
+{
+  "title": "Race.mx Mexican Motorsport Open Data",
+  "upload_type": "dataset",
+  "description": "<p>Year-by-year winners of Mexico's major races (Formula 1 Mexican Grand Prix since 1962, Baja 1000 since 1967, Baja 500 since 2010, Mexico City E-Prix, NASCAR Mexico Series champions since 2004), the current season's race calendar, and venue data. Every figure is taken from an official source or two independent reputable outlets; source pages are linked in the data. Live versions: https://race.mx/open-data/</p>",
+  "creators": [{"name": "Race.mx"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["motorsport", "Mexico", "Formula 1", "Baja 1000", "Baja 500", "NASCAR Mexico Series", "Formula E"],
+  "related_identifiers": [
+    {"identifier": "https://race.mx/open-data/", "relation": "isSupplementTo", "resource_type": "other"}
+  ],
+  "language": "eng"
+}
