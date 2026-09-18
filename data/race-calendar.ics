@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Race.mx//Mexico Motorsport Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Race.mx — Mexico racing calendar
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+UID:race-mx-434@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:NASCAR Mexico Series La Potosina 200 (2026)
+LOCATION:Súper Óvalo Potosino\, San Luis Potosí\, San Luis Potosí
+DESCRIPTION:Quick summary Date: Sunday\, Mar 15\, 2026 Venue: Súper Óvalo Potosino\, San Luis Potosí Winner: Rubén García Jr. Why it mattered: Season opener\, and the first of Rubén García Jr.’s two straight wins to start 2026 Status: Completed. This page is an archive entry for the 2026 season. What happened at the La Potosina 200? […] https://race.mx/eventos/nascar-mexico-potosina-200-2026/
+URL:https://race.mx/eventos/nascar-mexico-potosina-200-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-451@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260330
+SUMMARY:2026 SCORE San Felipe 250
+LOCATION:San Felipe – SCORE Baja Race Start/Finish\, San Felipe\, Baja California
+DESCRIPTION:Quick summary Race week: Mar 25–29\, 2026 (race day Mar 28) Base: San Felipe\, Baja California Overall car/truck winner: Luke McMillin\, #83 Ford Raptor — 4:29:45 Overall motorcycle winner: SLR Honda (Tyler Lynn / Carter Klein / Sam Pretscherer) — 5:19:01 Round: 1 of 4 in the 2026 SCORE World Desert Championship Status: Completed. This […] https://race.mx/eventos/score-san-felipe-250-2026/
+URL:https://race.mx/eventos/score-san-felipe-250-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-436@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:NASCAR Mexico Series Chiapas 200 (2026)
+LOCATION:Súper Óvalo Chiapas\, Berriozábal\, Chiapas
+DESCRIPTION:Quick summary Date: Sunday\, Mar 29\, 2026 Venue: Súper Óvalo Chiapas\, Berriozabal\, Chiapas Winner: Rubén García Jr. Why it mattered: García’s second win in two rounds\, on the series’ southernmost oval Status: Completed. This page is an archive entry for the 2026 season. What happened at the Chiapas 200? Officially the Chiapas Extraordinario por Naturaleza […] https://race.mx/eventos/nascar-mexico-chiapas-200-2026/
+URL:https://race.mx/eventos/nascar-mexico-chiapas-200-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-438@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:NASCAR Mexico Series Tulum 100 (2026)
+LOCATION:Tulum Airport Circuit (NASCAR Mexico)\, Tulum\, Quintana Roo
+DESCRIPTION:Quick summary Date: Sunday\, Apr 26\, 2026 Venue: Tulum airport circuit\, Aeropuerto Internacional de Tulum\, Quintana Roo Winner: Eloy Sebastián Falcón Why it mattered: A temporary circuit laid out at Tulum’s new international airport\, and Eloy Sebastián Falcón’s breakthrough Status: Completed. This page is an archive entry for the 2026 season. What happened at the […] https://race.mx/eventos/nascar-mexico-tulum-100-2026/
+URL:https://race.mx/eventos/nascar-mexico-tulum-100-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-440@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:NASCAR Mexico Series La Poblana 75 (2026)
+LOCATION:Autódromo Miguel E. Abed\, Amozoc\, Puebla
+DESCRIPTION:Quick summary Date: Sunday\, May 17\, 2026 Venue: Autódromo Miguel E. Abed\, Amozoc\, Puebla Winner: Helio Meza Why it mattered: The first of two 2026 visits to Puebla\, and Helio Meza’s win of the season Status: Completed. This page is an archive entry for the 2026 season. What happened at the La Poblana 75? La […] https://race.mx/eventos/nascar-mexico-poblana-75-2026/
+URL:https://race.mx/eventos/nascar-mexico-poblana-75-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-453@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260608
+SUMMARY:2026 SCORE Baja 500
+LOCATION:Ensenada – SCORE Baja Race Start/Finish\, Ensenada\, Baja California
+DESCRIPTION:Quick summary Race week: Jun 3–7\, 2026 (race day Jun 6) Base: Ensenada\, Baja California Overall car/truck winner: Luke McMillin\, #83 Ford Raptor — 9:10:54 Overall motorcycle winner: #1x SLR Honda (Lynn / Klein / Pretscherer) — 9:49:12 Round: 2 of 4 in the 2026 SCORE World Desert Championship Status: Completed. This page is an […] https://race.mx/eventos/score-baja-500-2026/
+URL:https://race.mx/eventos/score-baja-500-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-442@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:NASCAR Mexico Series Aguascalientes 250 (2026)
+LOCATION:Óvalo Aguascalientes México\, Aguascalientes\, Aguascalientes
+DESCRIPTION:Quick summary Date: Sunday\, Jun 7\, 2026\, 1:40 PM local start Venue: Óvalo Aguascalientes México\, Aguascalientes\, Aguascalientes Winner: Alex de Alba Jr. Why it mattered: The defending champion’s first win of 2026\, from eighth on the grid Status: Completed. This page is an archive entry for the 2026 season. What happened at the Aguascalientes 250? […] https://race.mx/eventos/nascar-mexico-aguascalientes-250-2026/
+URL:https://race.mx/eventos/nascar-mexico-aguascalientes-250-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-444@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:NASCAR Mexico Series Querétaro 140 (2026)
+LOCATION:Autódromo de Querétaro (EcoCentro Expositor)\, El Marqués\, Querétaro
+DESCRIPTION:Quick summary Date: Saturday\, Jun 27\, 2026\, 3:40 PM local start Venue: Autódromo de Querétaro\, Querétaro\, Querétaro Winner: Xavi Razo Why it mattered: Xavi Razo’s first win of 2026\, on the EcoCentro Expositor’s 1\,275-meter oval Status: Completed. This page is an archive entry for the 2026 season. What happened at the Querétaro 140? Round six […] https://race.mx/eventos/nascar-mexico-queretaro-140-2026/
+URL:https://race.mx/eventos/nascar-mexico-queretaro-140-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-446@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:NASCAR Mexico Series San Luis Potosí 200 (2026)
+LOCATION:Súper Óvalo Potosino\, San Luis Potosí\, San Luis Potosí
+DESCRIPTION:Quick summary Date: Sunday\, Aug 2\, 2026 Venue: Súper Óvalo Potosino\, San Luis Potosí Winner: Max Gutiérrez Why it mattered: The season’s second visit to San Luis Potosí\, with the Chase cut-off approaching Status: Completed. This page is an archive entry for the 2026 season. What happened at the San Luis Potosí 200? The series […] https://race.mx/eventos/nascar-mexico-san-luis-potosi-200-2026/
+URL:https://race.mx/eventos/nascar-mexico-san-luis-potosi-200-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-432@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:NASCAR Mexico Series Puebla 110 (2026)
+LOCATION:Autódromo Miguel E. Abed\, Amozoc\, Puebla
+DESCRIPTION:Quick summary Date: Sunday\, Aug 23\, 2026 Venue: Autódromo Miguel E. Abed\, Amozoc\, Puebla Winner: Rodrigo Rejón Why it mattered: Round 8\, the regular-season finale that locked in the four-driver Chase field Status: Completed. This page is an archive entry for the 2026 season. What happened at the Puebla 110? The Puebla 110 closed the […] https://race.mx/eventos/nascar-mexico-puebla-110-2026/
+URL:https://race.mx/eventos/nascar-mexico-puebla-110-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-448@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:NASCAR Mexico Series Monterrey 120 (2026\, cancelled)
+LOCATION:Autódromo Monterrey\, Apodaca\, Nuevo León
+DESCRIPTION:Quick summary Date: Sept 5\, 2026 Venue: Autódromo Monterrey\, Apodaca\, Nuevo León Result: Cancelled. Rain left the track unusable and the round was not run. Why it mattered: It was to open the Chase\; instead it became the extra race on the Yucatán doubleheader Status: Completed. This page is an archive entry for the 2026 […] https://race.mx/eventos/nascar-mexico-monterrey-120-2026/
+URL:https://race.mx/eventos/nascar-mexico-monterrey-120-2026/
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-210@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260914
+SUMMARY:2026 SCORE Baja 400
+LOCATION:Ensenada – SCORE Baja Race Start/Finish\, Ensenada\, Baja California
+DESCRIPTION:The 7th SCORE Baja 400 races Sept 12\, 2026 from Ensenada: 423.16-mile loop\, schedule\, pole\, live tracking and results. https://race.mx/eventos/score-baja-400-2026/
+URL:https://race.mx/eventos/score-baja-400-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-69@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:NASCAR Mexico Series at Aguascalientes 2026
+LOCATION:Óvalo Aguascalientes México\, Aguascalientes\, Aguascalientes
+DESCRIPTION:NASCAR Mexico Series Chase round at Óvalo Aguascalientes\, Sept 26–27\, 2026. The race runs Sunday\, Sept 27 on Mexico's fastest oval. https://race.mx/eventos/nascar-mexico-aguascalientes-2026/
+URL:https://race.mx/eventos/nascar-mexico-aguascalientes-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-211@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:NASCAR Mexico Series Gran Premio Yucatán 200 (2026)
+LOCATION:Autódromo Yucatán (Emerson Fittipaldi)\, Progreso (near Mérida)\, Yucatán
+DESCRIPTION:NASCAR Mexico Series Chase doubleheader at Autódromo Yucatán near Mérida\, Oct 17–18\, 2026: schedule\, MX$750 tickets and Chase stakes. https://race.mx/eventos/nascar-mexico-yucatan-2026/
+URL:https://race.mx/eventos/nascar-mexico-yucatan-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-67@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:2026 Mexico City Grand Prix (F1)
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, CDMX
+DESCRIPTION:2026 Formula 1 Mexico City Grand Prix: Oct 30 – Nov 1 at Autódromo Hermanos Rodríguez. Dates\, 71-lap race\, ticket status\, and a US fan travel guide. https://race.mx/eventos/mexico-city-grand-prix-2026/
+URL:https://race.mx/eventos/mexico-city-grand-prix-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-70@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:NASCAR Mexico Series Finale – Mexico City 2026
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, CDMX
+DESCRIPTION:2026 NASCAR Mexico Series championship finale at Autódromo Hermanos Rodríguez\, Nov 7–8. Race on Sunday\, Nov 8\, plus México Racing Cup support. https://race.mx/eventos/nascar-mexico-finale-mexico-city-2026/
+URL:https://race.mx/eventos/nascar-mexico-finale-mexico-city-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-68@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261116
+SUMMARY:2026 SCORE Baja 1000
+LOCATION:Los Cabos – 2026 Baja 1000 Start/Finish\, San José del Cabo\, Los Cabos\, Baja California Sur (exact site TBA)
+DESCRIPTION:2026 SCORE Baja 1000: Nov 9–15 in San José del Cabo\, Los Cabos. The first Baja 1000 held entirely in Baja California Sur. Dates\, schedule\, and fan tips. https://race.mx/eventos/score-baja-1000-2026/
+URL:https://race.mx/eventos/score-baja-1000-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:race-mx-212@race.mx
+DTSTAMP:20260918T145113Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:2027 Mexico City E-Prix (Formula E)
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, CDMX
+DESCRIPTION:Formula E returns to Autódromo Hermanos Rodríguez on Jan 16\, 2027: date\, venue\, past winners and trip-planning links. https://race.mx/eventos/mexico-city-e-prix-2027/
+URL:https://race.mx/eventos/mexico-city-e-prix-2027/
+END:VEVENT
+END:VCALENDAR

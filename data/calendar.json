@@ -1,0 +1,206 @@
+{
+    "name": "Race.mx calendar data",
+    "license": "CC BY 4.0 — attribute Race.mx and link to https://race.mx",
+    "updated": "2026-09-18T08:51:09-06:00",
+    "source": "https://race.mx",
+    "events": [
+        {
+            "name": "NASCAR Mexico Series La Potosina 200 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-03-15",
+            "end_date": "2026-03-15",
+            "status": "completed",
+            "venue": "Súper Óvalo Potosino",
+            "location": "San Luis Potosí, San Luis Potosí",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-potosina-200-2026/"
+        },
+        {
+            "name": "2026 SCORE San Felipe 250",
+            "series": "SCORE Desert Racing",
+            "start_date": "2026-03-25",
+            "end_date": "2026-03-29",
+            "status": "completed",
+            "venue": "San Felipe – SCORE Baja Race Start/Finish",
+            "location": "San Felipe, Baja California",
+            "tickets": "https://score-international.com/",
+            "url": "https://race.mx/eventos/score-san-felipe-250-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Chiapas 200 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-03-29",
+            "end_date": "2026-03-29",
+            "status": "completed",
+            "venue": "Súper Óvalo Chiapas",
+            "location": "Berriozábal, Chiapas",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-chiapas-200-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Tulum 100 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-04-26",
+            "end_date": "2026-04-26",
+            "status": "completed",
+            "venue": "Tulum Airport Circuit (NASCAR Mexico)",
+            "location": "Tulum, Quintana Roo",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-tulum-100-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series La Poblana 75 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-05-17",
+            "end_date": "2026-05-17",
+            "status": "completed",
+            "venue": "Autódromo Miguel E. Abed",
+            "location": "Amozoc, Puebla",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-poblana-75-2026/"
+        },
+        {
+            "name": "2026 SCORE Baja 500",
+            "series": "SCORE Desert Racing",
+            "start_date": "2026-06-03",
+            "end_date": "2026-06-07",
+            "status": "completed",
+            "venue": "Ensenada – SCORE Baja Race Start/Finish",
+            "location": "Ensenada, Baja California",
+            "tickets": "https://score-international.com/",
+            "url": "https://race.mx/eventos/score-baja-500-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Aguascalientes 250 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-06-07",
+            "end_date": "2026-06-07",
+            "status": "completed",
+            "venue": "Óvalo Aguascalientes México",
+            "location": "Aguascalientes, Aguascalientes",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-aguascalientes-250-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Querétaro 140 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-06-27",
+            "end_date": "2026-06-27",
+            "status": "completed",
+            "venue": "Autódromo de Querétaro (EcoCentro Expositor)",
+            "location": "El Marqués, Querétaro",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-queretaro-140-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series San Luis Potosí 200 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-08-02",
+            "end_date": "2026-08-02",
+            "status": "completed",
+            "venue": "Súper Óvalo Potosino",
+            "location": "San Luis Potosí, San Luis Potosí",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-san-luis-potosi-200-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Puebla 110 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-08-23",
+            "end_date": "2026-08-23",
+            "status": "completed",
+            "venue": "Autódromo Miguel E. Abed",
+            "location": "Amozoc, Puebla",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-puebla-110-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Monterrey 120 (2026, cancelled)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-09-05",
+            "end_date": "2026-09-05",
+            "status": "cancelled",
+            "venue": "Autódromo Monterrey",
+            "location": "Apodaca, Nuevo León",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-monterrey-120-2026/"
+        },
+        {
+            "name": "2026 SCORE Baja 400",
+            "series": "SCORE Desert Racing",
+            "start_date": "2026-09-09",
+            "end_date": "2026-09-13",
+            "status": "completed",
+            "venue": "Ensenada – SCORE Baja Race Start/Finish",
+            "location": "Ensenada, Baja California",
+            "tickets": "https://score-international.com/",
+            "url": "https://race.mx/eventos/score-baja-400-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series at Aguascalientes 2026",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-09-26",
+            "end_date": "2026-09-27",
+            "status": "scheduled",
+            "venue": "Óvalo Aguascalientes México",
+            "location": "Aguascalientes, Aguascalientes",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-aguascalientes-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Gran Premio Yucatán 200 (2026)",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-10-16",
+            "end_date": "2026-10-18",
+            "status": "scheduled",
+            "venue": "Autódromo Yucatán (Emerson Fittipaldi)",
+            "location": "Progreso (near Mérida), Yucatán",
+            "tickets": "https://granpremioyucatan.com/",
+            "url": "https://race.mx/eventos/nascar-mexico-yucatan-2026/"
+        },
+        {
+            "name": "2026 Mexico City Grand Prix (F1)",
+            "series": "F1",
+            "start_date": "2026-10-30",
+            "end_date": "2026-11-01",
+            "status": "scheduled",
+            "venue": "Autódromo Hermanos Rodríguez",
+            "location": "Mexico City, CDMX",
+            "tickets": "https://www.mexicogp.mx/",
+            "url": "https://race.mx/eventos/mexico-city-grand-prix-2026/"
+        },
+        {
+            "name": "NASCAR Mexico Series Finale – Mexico City 2026",
+            "series": "NASCAR Mexico",
+            "start_date": "2026-11-07",
+            "end_date": "2026-11-08",
+            "status": "scheduled",
+            "venue": "Autódromo Hermanos Rodríguez",
+            "location": "Mexico City, CDMX",
+            "tickets": "https://www.nascar.mx/schedule/",
+            "url": "https://race.mx/eventos/nascar-mexico-finale-mexico-city-2026/"
+        },
+        {
+            "name": "2026 SCORE Baja 1000",
+            "series": "Baja 1000",
+            "start_date": "2026-11-09",
+            "end_date": "2026-11-15",
+            "status": "scheduled",
+            "venue": "Los Cabos – 2026 Baja 1000 Start/Finish",
+            "location": "San José del Cabo, Los Cabos, Baja California Sur (exact site TBA)",
+            "tickets": "https://score-international.com/",
+            "url": "https://race.mx/eventos/score-baja-1000-2026/"
+        },
+        {
+            "name": "2027 Mexico City E-Prix (Formula E)",
+            "series": "Formula E",
+            "start_date": "2027-01-16",
+            "end_date": "2027-01-16",
+            "status": "scheduled",
+            "venue": "Autódromo Hermanos Rodríguez",
+            "location": "Mexico City, CDMX",
+            "tickets": "https://www.fiaformulae.com/",
+            "url": "https://race.mx/eventos/mexico-city-e-prix-2027/"
+        }
+    ]
+}

@@ -1,0 +1,1096 @@
+{
+    "name": "Race.mx winners history",
+    "license": "CC BY 4.0 - attribute Race.mx and link to https://race.mx",
+    "updated": "2026-09-18T14:33:38+00:00",
+    "source": "https://race.mx/",
+    "coverage": {
+        "from": 1962,
+        "to": 2026
+    },
+    "note": "Generated from the year-by-year tables on each linked page, which the Race.mx editorial team maintains from official sources. Names and times are as published. outright_fastest says whether the fastest car or truck or the fastest motorcycle set the outright fastest time; the pages mark it with a diamond.",
+    "events": [
+        {
+            "event": "Mexican Grand Prix / Mexico City Grand Prix (Formula 1)",
+            "table": "Every race since 1962",
+            "page": "https://race.mx/mexico-race-winners/mexico-grand-prix-winners/",
+            "columns": [
+                "year",
+                "winner",
+                "team",
+                "pole_position"
+            ],
+            "rows": [
+                {
+                    "year": 2025,
+                    "status": "held",
+                    "winner": "Lando Norris (GBR)",
+                    "team": "McLaren-Mercedes",
+                    "pole_position": "Lando Norris"
+                },
+                {
+                    "year": 2024,
+                    "status": "held",
+                    "winner": "Carlos Sainz (ESP)",
+                    "team": "Ferrari",
+                    "pole_position": "Carlos Sainz"
+                },
+                {
+                    "year": 2023,
+                    "status": "held",
+                    "winner": "Max Verstappen (NED)",
+                    "team": "Red Bull-Honda RBPT",
+                    "pole_position": "Charles Leclerc"
+                },
+                {
+                    "year": 2022,
+                    "status": "held",
+                    "winner": "Max Verstappen (NED)",
+                    "team": "Red Bull-RBPT",
+                    "pole_position": "Max Verstappen"
+                },
+                {
+                    "year": 2021,
+                    "status": "held",
+                    "winner": "Max Verstappen (NED)",
+                    "team": "Red Bull-Honda",
+                    "pole_position": "Valtteri Bottas"
+                },
+                {
+                    "year": 2020,
+                    "status": "cancelled",
+                    "winner": "Cancelled (COVID-19)",
+                    "team": "",
+                    "pole_position": ""
+                },
+                {
+                    "year": 2019,
+                    "status": "held",
+                    "winner": "Lewis Hamilton (GBR)",
+                    "team": "Mercedes",
+                    "pole_position": "Charles Leclerc"
+                },
+                {
+                    "year": 2018,
+                    "status": "held",
+                    "winner": "Max Verstappen (NED)",
+                    "team": "Red Bull-TAG Heuer",
+                    "pole_position": "Daniel Ricciardo"
+                },
+                {
+                    "year": 2017,
+                    "status": "held",
+                    "winner": "Max Verstappen (NED)",
+                    "team": "Red Bull-TAG Heuer",
+                    "pole_position": "Sebastian Vettel"
+                },
+                {
+                    "year": 2016,
+                    "status": "held",
+                    "winner": "Lewis Hamilton (GBR)",
+                    "team": "Mercedes",
+                    "pole_position": "Lewis Hamilton"
+                },
+                {
+                    "year": 2015,
+                    "status": "held",
+                    "winner": "Nico Rosberg (GER)",
+                    "team": "Mercedes",
+                    "pole_position": "Nico Rosberg"
+                },
+                {
+                    "year": null,
+                    "year_as_published": "1993–2014",
+                    "status": "not_held",
+                    "winner": "Not held",
+                    "team": "",
+                    "pole_position": ""
+                },
+                {
+                    "year": 1992,
+                    "status": "held",
+                    "winner": "Nigel Mansell (GBR)",
+                    "team": "Williams-Renault",
+                    "pole_position": "Nigel Mansell"
+                },
+                {
+                    "year": 1991,
+                    "status": "held",
+                    "winner": "Riccardo Patrese (ITA)",
+                    "team": "Williams-Renault",
+                    "pole_position": "Riccardo Patrese"
+                },
+                {
+                    "year": 1990,
+                    "status": "held",
+                    "winner": "Alain Prost (FRA)",
+                    "team": "Ferrari",
+                    "pole_position": "Gerhard Berger"
+                },
+                {
+                    "year": 1989,
+                    "status": "held",
+                    "winner": "Ayrton Senna (BRA)",
+                    "team": "McLaren-Honda",
+                    "pole_position": "Ayrton Senna"
+                },
+                {
+                    "year": 1988,
+                    "status": "held",
+                    "winner": "Alain Prost (FRA)",
+                    "team": "McLaren-Honda",
+                    "pole_position": "Ayrton Senna"
+                },
+                {
+                    "year": 1987,
+                    "status": "held",
+                    "winner": "Nigel Mansell (GBR)",
+                    "team": "Williams-Honda",
+                    "pole_position": "Nigel Mansell"
+                },
+                {
+                    "year": 1986,
+                    "status": "held",
+                    "winner": "Gerhard Berger (AUT)",
+                    "team": "Benetton-BMW",
+                    "pole_position": "Ayrton Senna"
+                },
+                {
+                    "year": null,
+                    "year_as_published": "1971–1985",
+                    "status": "not_held",
+                    "winner": "Not held",
+                    "team": "",
+                    "pole_position": ""
+                },
+                {
+                    "year": 1970,
+                    "status": "held",
+                    "winner": "Jacky Ickx (BEL)",
+                    "team": "Ferrari",
+                    "pole_position": "Clay Regazzoni"
+                },
+                {
+                    "year": 1969,
+                    "status": "held",
+                    "winner": "Denny Hulme (NZL)",
+                    "team": "McLaren-Ford",
+                    "pole_position": "Jack Brabham"
+                },
+                {
+                    "year": 1968,
+                    "status": "held",
+                    "winner": "Graham Hill (GBR)",
+                    "team": "Lotus-Ford",
+                    "pole_position": "Jo Siffert"
+                },
+                {
+                    "year": 1967,
+                    "status": "held",
+                    "winner": "Jim Clark (GBR)",
+                    "team": "Lotus-Ford",
+                    "pole_position": "Jim Clark"
+                },
+                {
+                    "year": 1966,
+                    "status": "held",
+                    "winner": "John Surtees (GBR)",
+                    "team": "Cooper-Maserati",
+                    "pole_position": "John Surtees"
+                },
+                {
+                    "year": 1965,
+                    "status": "held",
+                    "winner": "Richie Ginther (USA)",
+                    "team": "Honda",
+                    "pole_position": "Jim Clark"
+                },
+                {
+                    "year": 1964,
+                    "status": "held",
+                    "winner": "Dan Gurney (USA)",
+                    "team": "Brabham-Climax",
+                    "pole_position": "Jim Clark"
+                },
+                {
+                    "year": 1963,
+                    "status": "held",
+                    "winner": "Jim Clark (GBR)",
+                    "team": "Lotus-Climax",
+                    "pole_position": "Jim Clark"
+                },
+                {
+                    "year": 1962,
+                    "status": "held",
+                    "winner": "Taylor / Clark (shared car)*",
+                    "team": "Lotus-Climax",
+                    "pole_position": "Jim Clark"
+                }
+            ],
+            "notes": [
+                "*1962 was a non-championship race. Jim Clark took over Trevor Taylor’s car after his own was disqualified for a push start, and both are credited with the win. 2019 pole: Verstappen set the fastest time but took a grid penalty, so Leclerc is the official pole sitter. The race was the “Mexican Grand Prix” through 2019 and has been the “Mexico City Grand Prix” since 2021."
+            ]
+        },
+        {
+            "event": "SCORE Baja 1000",
+            "table": "Fastest car or truck and fastest motorcycle, 2000 to present",
+            "page": "https://race.mx/mexico-race-winners/baja-1000-winners/",
+            "columns": [
+                "year",
+                "edition",
+                "course",
+                "fastest_car_truck",
+                "fastest_motorcycle"
+            ],
+            "rows": [
+                {
+                    "year": 2025,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "58th",
+                    "course": "Ensenada loop, 835.52 mi",
+                    "fastest_car_truck": "Christopher Polvoorde / Bryce Menzies, Ford Raptor TT — 15:48:24",
+                    "fastest_motorcycle": "Tyler Lynn / David Kamo / Carter Klein, Honda — 17:55:39"
+                },
+                {
+                    "year": 2024,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "57th",
+                    "course": "Ensenada loop, 864.13 mi",
+                    "fastest_car_truck": "Luke McMillin / Rob MacCachren, Chevrolet TT — 15:54:37",
+                    "fastest_motorcycle": "Justin Morgan / Tyler Lynn / Brandon Prieto / Ryan Surratt, Honda"
+                },
+                {
+                    "year": 2023,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "56th",
+                    "course": "La Paz–Ensenada, 1,310.94 mi",
+                    "fastest_car_truck": "Bryce Menzies / Andy McMillin / Tavo Vildósola Jr., Ford Raptor TT — 22:35:33",
+                    "fastest_motorcycle": "Juan Carlos Salvatierra / Shane Logan / Diego Llanos / Carter Klein / Corbin McPherson, KTM"
+                },
+                {
+                    "year": 2022,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "55th",
+                    "course": "Ensenada loop",
+                    "fastest_car_truck": "Luke McMillin / Rob MacCachren, Chevrolet TT — 16:37:46",
+                    "fastest_motorcycle": "Justin Morgan / Mark Samuels / Kendall Norman, Honda"
+                },
+                {
+                    "year": 2021,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "54th",
+                    "course": "Ensenada–La Paz, 1,226.35 mi",
+                    "fastest_car_truck": "Luke McMillin / Rob MacCachren, Chevrolet TT — 20:45:59",
+                    "fastest_motorcycle": "Justin Morgan / Mark Samuels / Brandon Prieto / Kendall Norman, Honda"
+                },
+                {
+                    "year": 2020,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "53rd",
+                    "course": "Ensenada loop",
+                    "fastest_car_truck": "Luke McMillin / Larry Roeseler, Ford TT — 19:10:25",
+                    "fastest_motorcycle": "Justin Morgan / Mark Samuels / Justin Jones, Honda"
+                },
+                {
+                    "year": 2019,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "52nd",
+                    "course": "Ensenada loop",
+                    "fastest_car_truck": "Alan & Aaron Ampudia, Ford Raptor TT — 16:10:36",
+                    "fastest_motorcycle": "Justin Morgan / David Kamo / Max Eddy Jr. / Shane Esposito, Honda"
+                },
+                {
+                    "year": 2018,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "51st",
+                    "course": "Ensenada loop, 806.76 mi",
+                    "fastest_car_truck": "Cameron Steele / Pat Dean, Ford Raptor TT",
+                    "fastest_motorcycle": "Justin Morgan / Mark Samuels / Justin Jones, Honda — 16:23:26"
+                },
+                {
+                    "year": 2017,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "50th",
+                    "course": "Ensenada–La Paz, 1,134.40 mi",
+                    "fastest_car_truck": "Apdaly López / Juan C. López, Chevrolet TT — 19:53:36",
+                    "fastest_motorcycle": "Francisco Arredondo / Shane Esposito / Justin Morgan / Max Eddy Jr. / Ty Davis, Honda"
+                },
+                {
+                    "year": 2016,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "49th",
+                    "course": "Ensenada loop",
+                    "fastest_car_truck": "Rob MacCachren / Jason Voss, Ford TT — 17:12:58",
+                    "fastest_motorcycle": "Justin Jones / David Kamo / Mark Samuels / Daymon Stokie / Colton Udall, Honda"
+                },
+                {
+                    "year": 2015,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "48th",
+                    "course": "Ensenada loop, 821.38 mi",
+                    "fastest_car_truck": "Rob MacCachren / Andy McMillin, Ford TT — 15:58:32",
+                    "fastest_motorcycle": "Colton Udall / Mark Samuels / Justin Jones, Honda"
+                },
+                {
+                    "year": 2014,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "47th",
+                    "course": "Ensenada–La Paz, 1,275 mi",
+                    "fastest_car_truck": "Rob MacCachren / Andy McMillin / Jason Voss, Ford TT — 22:31:28",
+                    "fastest_motorcycle": "Ricky Brabec / Robby Bell / Steve Hengeveld / Max Eddy Jr., Kawasaki"
+                },
+                {
+                    "year": 2013,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "46th",
+                    "course": "Ensenada loop, 883.1 mi",
+                    "fastest_car_truck": "B.J. Baldwin (solo), Chevrolet TT",
+                    "fastest_motorcycle": "Timmy Weigand / Colton Udall / David Kamo / Mark Samuels, Honda — 18:29:14"
+                },
+                {
+                    "year": 2012,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "45th",
+                    "course": "Ensenada–La Paz, 1,121.55 mi",
+                    "fastest_car_truck": "B.J. Baldwin (solo), Chevrolet TT — 20:00:59",
+                    "fastest_motorcycle": "Colton Udall / Timmy Weigand / David Kamo, Honda"
+                },
+                {
+                    "year": 2011,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "44th",
+                    "course": "Ensenada loop, 692.82 mi",
+                    "fastest_car_truck": "Andy & Scott McMillin, Ford Raptor TT",
+                    "fastest_motorcycle": "Kendall Norman / Quinn Cody / Logan Holladay, Honda — 14:14:25"
+                },
+                {
+                    "year": 2010,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "edition": "43rd",
+                    "course": "Ensenada–La Paz, 1,061.69 mi",
+                    "fastest_car_truck": "Gus Vildósola Jr. / Gus Vildósola Sr., Ford TT — 19:00:04",
+                    "fastest_motorcycle": "Kendall Norman / Quinn Cody, Honda"
+                },
+                {
+                    "year": 2009,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "42nd",
+                    "course": "Ensenada loop, 672.85 mi",
+                    "fastest_car_truck": "Andy & Scott McMillin, Chevrolet TT",
+                    "fastest_motorcycle": "Kendall Norman / Timmy Weigand / Quinn Cody, Honda — 13:27:50"
+                },
+                {
+                    "year": 2008,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "41st",
+                    "course": "Ensenada loop, 631.35 mi",
+                    "fastest_car_truck": "Roger Norman / Larry Roeseler, Ford TT",
+                    "fastest_motorcycle": "Robby Bell / Kendall Norman / Johnny Campbell, Honda — 12:29:18"
+                },
+                {
+                    "year": 2007,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "40th",
+                    "course": "Ensenada–Cabo San Lucas, 1,296.39 mi",
+                    "fastest_car_truck": "Mark Post / Rob MacCachren / Carl Renezeder, Ford TT",
+                    "fastest_motorcycle": "Robby Bell / Steve Hengeveld / Johnny Campbell / Kendall Norman, Honda — 24:15:50"
+                },
+                {
+                    "year": 2006,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "39th",
+                    "course": "Ensenada–La Paz, 1,047.8 mi",
+                    "fastest_car_truck": "Andy McMillin / Robby Gordon, Chevrolet TT",
+                    "fastest_motorcycle": "Steve Hengeveld / Mike Childress / Quinn Cody, Honda — 18:17:50"
+                },
+                {
+                    "year": 2005,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "38th",
+                    "course": "Ensenada loop",
+                    "fastest_car_truck": "Larry Roeseler / Troy Herbst, Smithbuilt (Class 1)",
+                    "fastest_motorcycle": "Steve Hengeveld / Johnny Campbell / Mike Childress, Honda — 14:20:30"
+                },
+                {
+                    "year": 2004,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "37th",
+                    "course": "Ensenada–La Paz, 1,013.57 mi",
+                    "fastest_car_truck": "Troy Herbst / Larry Roeseler, Smithbuilt (Class 1)",
+                    "fastest_motorcycle": "Steve Hengeveld / Johnny Campbell / Kendall Norman, Honda — 15:57:37"
+                },
+                {
+                    "year": 2003,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "36th",
+                    "course": "Ensenada loop, 808 mi",
+                    "fastest_car_truck": "Doug Fortin / Charlie Townsley, Jimco (Class 1)",
+                    "fastest_motorcycle": "Steve Hengeveld / Johnny Campbell, Honda — 15:39:52"
+                },
+                {
+                    "year": 2002,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "35th",
+                    "course": "Ensenada–La Paz, 1,017.31 mi",
+                    "fastest_car_truck": "Dave Ashley / Dan Smith, Ford TT",
+                    "fastest_motorcycle": "Steve Hengeveld / Johnny Campbell / Andy Grider, Honda — 16:17:28"
+                },
+                {
+                    "year": 2001,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "34th",
+                    "course": "Ensenada loop",
+                    "fastest_car_truck": "Doug Fortin / Charlie Townsley, Jimco (Class 1)",
+                    "fastest_motorcycle": "Johnny Campbell / Tim Staab, Honda — 13:51:40"
+                },
+                {
+                    "year": 2000,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "edition": "33rd",
+                    "course": "Ensenada–Cabo San Lucas, 1,679.54 mi",
+                    "fastest_car_truck": "Dan Smith / Dave Ashley, Ford TT",
+                    "fastest_motorcycle": "Johnny Campbell / Tim Staab / Craig Smith / Steve Hengeveld, Honda — 30:54:12"
+                }
+            ]
+        },
+        {
+            "event": "SCORE Baja 1000",
+            "table": "Overall winners, 1967 to 1999",
+            "page": "https://race.mx/mexico-race-winners/baja-1000-winners/",
+            "columns": [
+                "year",
+                "overall_winner_and_time"
+            ],
+            "rows": [
+                {
+                    "year": 1999,
+                    "status": "held",
+                    "overall_winner_and_time": "Johnny Campbell / Tim Staab, Honda — 14:15:42"
+                },
+                {
+                    "year": 1998,
+                    "status": "held",
+                    "overall_winner_and_time": "Johnny Campbell / Jimmy Lewis, Honda — 18:58:48"
+                },
+                {
+                    "year": 1997,
+                    "status": "held",
+                    "overall_winner_and_time": "Johnny Campbell / Tim Staab / Greg Bringle, Honda — 13:19:59"
+                },
+                {
+                    "year": 1996,
+                    "status": "held",
+                    "overall_winner_and_time": "Paul Krause / Ty Davis / Greg Zitterkopf, Kawasaki — 14:11:02"
+                },
+                {
+                    "year": 1995,
+                    "status": "held",
+                    "overall_winner_and_time": "Paul Krause / Ty Davis / Ted Hunnicutt Jr., Kawasaki — 19:31:19"
+                },
+                {
+                    "year": 1994,
+                    "status": "held",
+                    "overall_winner_and_time": "Danny Hamel / Larry Roeseler / Ty Davis, Kawasaki — 10:20:47"
+                },
+                {
+                    "year": 1993,
+                    "status": "held",
+                    "overall_winner_and_time": "Ivan Stewart, Toyota truck — 13:29:11 (four-wheel overall)"
+                },
+                {
+                    "year": 1992,
+                    "status": "held",
+                    "overall_winner_and_time": "Danny Hamel / Garth Sweetland / Paul Ostbo, Kawasaki — 16:50:12"
+                },
+                {
+                    "year": 1991,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Roeseler / Ted Hunnicutt Jr. / Marty Smith, Kawasaki — 13:35:25"
+                },
+                {
+                    "year": 1990,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Roeseler / Ted Hunnicutt Jr. / Danny LaPorte, Kawasaki — 11:11:45"
+                },
+                {
+                    "year": 1989,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Roeseler / Ted Hunnicutt Jr. / Danny LaPorte, Kawasaki — 17:53:16"
+                },
+                {
+                    "year": 1988,
+                    "status": "held",
+                    "overall_winner_and_time": "Paul Krause / Larry Roeseler / Danny LaPorte, Kawasaki — 11:33:45"
+                },
+                {
+                    "year": 1987,
+                    "status": "held",
+                    "overall_winner_and_time": "Dan Ashcraft / Bruce Ogilvie, Honda — 12:02:14"
+                },
+                {
+                    "year": 1986,
+                    "status": "held",
+                    "overall_winner_and_time": "Bruce Ogilvie / Chuck Miller, Honda — 18:05:52"
+                },
+                {
+                    "year": 1985,
+                    "status": "held",
+                    "overall_winner_and_time": "Randy Morales / Derrick Paiement, Honda — 17:44:42"
+                },
+                {
+                    "year": 1984,
+                    "status": "held",
+                    "overall_winner_and_time": "Chuck Miller / Randy Morales, Honda — 14:34:34"
+                },
+                {
+                    "year": 1983,
+                    "status": "held",
+                    "overall_winner_and_time": "Dan Smith / Dan Ashcraft, Husqvarna — 14:48:10"
+                },
+                {
+                    "year": 1982,
+                    "status": "held",
+                    "overall_winner_and_time": "Al Baker / Jack Johnson, Honda — 17:25:27"
+                },
+                {
+                    "year": 1981,
+                    "status": "held",
+                    "overall_winner_and_time": "Scot Harden / Brent Wallingsford, Husqvarna — 17:14:05"
+                },
+                {
+                    "year": 1980,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Roeseler / Jack Johnson, Yamaha — 12:45:13"
+                },
+                {
+                    "year": 1979,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Roeseler / Jack Johnson, Husqvarna — 19:48:04"
+                },
+                {
+                    "year": 1978,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Roeseler / Jack Johnson, Husqvarna — 10:23:47"
+                },
+                {
+                    "year": 1977,
+                    "status": "held",
+                    "overall_winner_and_time": "Brent Wallingsford / Scot Harden, Husqvarna — 14:37:07"
+                },
+                {
+                    "year": 1976,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Roeseler / Mitch Mayes, Husqvarna — 11:30:47"
+                },
+                {
+                    "year": 1975,
+                    "status": "held",
+                    "overall_winner_and_time": "Al Baker / Gene Cannady, Honda — 18:22:55"
+                },
+                {
+                    "year": 1974,
+                    "status": "held",
+                    "overall_winner_and_time": "No race (fuel crisis)"
+                },
+                {
+                    "year": 1973,
+                    "status": "held",
+                    "overall_winner_and_time": "Bobby Ferro / Johnny Johnson, Funco VW — 16:50:25"
+                },
+                {
+                    "year": 1972,
+                    "status": "held",
+                    "overall_winner_and_time": "Parnelli Jones / Bill Stroppe, Ford Bronco — 16:47"
+                },
+                {
+                    "year": 1971,
+                    "status": "held",
+                    "overall_winner_and_time": "Parnelli Jones / Bill Stroppe, Ford Bronco — 14:59"
+                },
+                {
+                    "year": 1970,
+                    "status": "held",
+                    "overall_winner_and_time": "Drino Miller / Vic Wilson, VW — 16:07"
+                },
+                {
+                    "year": 1969,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Minor / Rod Hall, Ford Bronco — 20:48:10"
+                },
+                {
+                    "year": 1968,
+                    "status": "held",
+                    "overall_winner_and_time": "Larry Bergquist / Gary Preston, Honda motorcycle — 20:38:28"
+                },
+                {
+                    "year": 1967,
+                    "status": "held",
+                    "overall_winner_and_time": "Vic Wilson / Ted Mangels, Meyers Manx — 27:38"
+                }
+            ]
+        },
+        {
+            "event": "SCORE Baja 500",
+            "table": "Fastest car or truck and fastest motorcycle, 2010 to present",
+            "page": "https://race.mx/mexico-race-winners/baja-500-winners/",
+            "columns": [
+                "year",
+                "miles",
+                "fastest_car_truck",
+                "fastest_motorcycle"
+            ],
+            "rows": [
+                {
+                    "year": 2026,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "468.70",
+                    "fastest_car_truck": "Luke McMillin, Ford Raptor — 9:10:54",
+                    "fastest_motorcycle": "Tyler Lynn / Carter Klein / Sam Pretscherer, Honda — 9:49:12"
+                },
+                {
+                    "year": 2025,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "461.03",
+                    "fastest_car_truck": "Alan Ampudia (solo), Ford Raptor — 8:39:34",
+                    "fastest_motorcycle": "Tyler Lynn / Carter Klein, Honda — 9:18:23"
+                },
+                {
+                    "year": 2024,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "482.97",
+                    "fastest_car_truck": "Toby Price / Paul Weel, Chevrolet — 9:20:22",
+                    "fastest_motorcycle": "Arturo Salas Jr. / Carter Klein / Ciaran Naran, Honda — 10:36:02"
+                },
+                {
+                    "year": 2023,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "473.67",
+                    "fastest_car_truck": "Bryce Menzies, Ford Raptor — 9:03:38",
+                    "fastest_motorcycle": "Arturo Salas Jr. / Clayton Roberts, KTM — 10:29:59"
+                },
+                {
+                    "year": 2022,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "463.12",
+                    "fastest_car_truck": "Rob MacCachren, Ford — 9:22:47",
+                    "fastest_motorcycle": "Juan Carlos Salvatierra, KTM — 11:02:33"
+                },
+                {
+                    "year": 2021,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "466",
+                    "fastest_car_truck": "Larry Roeseler, Toyota Tundra — 10:16:02",
+                    "fastest_motorcycle": "Jason Alosi, Husqvarna — 11:27:56"
+                },
+                {
+                    "year": 2020,
+                    "year_as_published": "2020*",
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "~491",
+                    "fastest_car_truck": "Dan McMillin / Justin B. Smith, Chevrolet — 8:29:17",
+                    "fastest_motorcycle": "Mark Samuels / Justin Morgan / Justin Jones, Honda"
+                },
+                {
+                    "year": 2019,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "485.02",
+                    "fastest_car_truck": "Andy McMillin, Chevrolet — 9:49:12",
+                    "fastest_motorcycle": "Justin Morgan / Mark Samuels / Justin Jones, Honda — 10:50:11"
+                },
+                {
+                    "year": 2018,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "542.12",
+                    "fastest_car_truck": "Rob MacCachren, Ford — 11:21:15",
+                    "fastest_motorcycle": "Justin Morgan / Mark Samuels / Justin Jones, Honda — 11:54:58"
+                },
+                {
+                    "year": 2017,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "513.67",
+                    "fastest_car_truck": "Andy McMillin, Ford — 10:03:04",
+                    "fastest_motorcycle": "Francisco Arredondo / Shane Esposito / Justin Morgan / Villalobos, Honda — 11:04:53"
+                },
+                {
+                    "year": 2016,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "477.52",
+                    "fastest_car_truck": "Tavo Vildósola Jr., Ford Raptor — 8:20:55",
+                    "fastest_motorcycle": "Colton Udall / Mark Samuels, Honda — 9:18:11"
+                },
+                {
+                    "year": 2015,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "510.58",
+                    "fastest_car_truck": "Apdaly López, Chevrolet — 8:48:38",
+                    "fastest_motorcycle": "Ricky Brabec / Max Eddy Jr. / Ian Young / Justin Morgan, Kawasaki — 10:09:55"
+                },
+                {
+                    "year": 2014,
+                    "status": "held",
+                    "outright_fastest": "car_truck",
+                    "miles": "446.9",
+                    "fastest_car_truck": "Bryce Menzies, Ford — 8:51:49",
+                    "fastest_motorcycle": "Ricky Brabec / David Pearson / Max Eddy Jr., Kawasaki — 8:58:27"
+                },
+                {
+                    "year": 2013,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "miles": "500.99",
+                    "fastest_car_truck": "Robby Gordon, Chevrolet — 10:04:36",
+                    "fastest_motorcycle": "Timmy Weigand / Colton Udall / David Kamo, Honda — 9:46:50"
+                },
+                {
+                    "year": 2012,
+                    "status": "held",
+                    "miles": "—",
+                    "fastest_car_truck": "Bryce Menzies, Ford — 9:13:39",
+                    "fastest_motorcycle": "Robby Bell / David Pearson / Steve Hengeveld, Kawasaki"
+                },
+                {
+                    "year": 2011,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "miles": "452.84",
+                    "fastest_car_truck": "Bryce Menzies, Ford — 9:04:52",
+                    "fastest_motorcycle": "Kendall Norman / Quinn Cody, Honda — 8:47:07"
+                },
+                {
+                    "year": 2010,
+                    "status": "held",
+                    "outright_fastest": "motorcycle",
+                    "miles": "438.81",
+                    "fastest_car_truck": "Andy & Scott McMillin, Ford — 9:15:13",
+                    "fastest_motorcycle": "Kendall Norman / Quinn Cody, Honda — 8:47:00"
+                }
+            ],
+            "notes": [
+                "*2020 was postponed by COVID-19 to Sept 26 and started from San Felipe. 2021: Larry Roeseler was declared the winner at age 64 after penalties to the first two finishers on the road. Some older motorcycle times and the 2012 mileage aren’t published in sources we could verify, so they’re left blank."
+            ]
+        },
+        {
+            "event": "Mexico City E-Prix (Formula E)",
+            "table": "Every race since 2016",
+            "page": "https://race.mx/mexico-race-winners/formula-e-mexico-city-winners/",
+            "columns": [
+                "date",
+                "winner",
+                "team",
+                "pole"
+            ],
+            "rows": [
+                {
+                    "year": 2026,
+                    "date_iso": "2026-01-10",
+                    "status": "held",
+                    "date": "Jan 10, 2026",
+                    "winner": "Nick Cassidy (NZL)",
+                    "team": "Citroën",
+                    "pole": "Sébastien Buemi"
+                },
+                {
+                    "year": 2025,
+                    "date_iso": "2025-01-11",
+                    "status": "held",
+                    "date": "Jan 11, 2025",
+                    "winner": "Oliver Rowland (GBR)",
+                    "team": "Nissan",
+                    "pole": "Pascal Wehrlein"
+                },
+                {
+                    "year": 2024,
+                    "date_iso": "2024-01-13",
+                    "status": "held",
+                    "date": "Jan 13, 2024",
+                    "winner": "Pascal Wehrlein (GER)",
+                    "team": "TAG Heuer Porsche",
+                    "pole": "Pascal Wehrlein"
+                },
+                {
+                    "year": 2023,
+                    "date_iso": "2023-01-14",
+                    "status": "held",
+                    "date": "Jan 14, 2023",
+                    "winner": "Jake Dennis (GBR)",
+                    "team": "Avalanche Andretti",
+                    "pole": "Lucas di Grassi"
+                },
+                {
+                    "year": 2022,
+                    "date_iso": "2022-02-12",
+                    "status": "held",
+                    "date": "Feb 12, 2022",
+                    "winner": "Pascal Wehrlein (GER)",
+                    "team": "Porsche",
+                    "pole": "Pascal Wehrlein"
+                },
+                {
+                    "year": 2021,
+                    "status": "not_held",
+                    "date": "2021",
+                    "winner": "Not held in Mexico City (moved to Puebla, see below)",
+                    "team": "",
+                    "pole": ""
+                },
+                {
+                    "year": 2020,
+                    "date_iso": "2020-02-15",
+                    "status": "held",
+                    "date": "Feb 15, 2020",
+                    "winner": "Mitch Evans (NZL)",
+                    "team": "Jaguar",
+                    "pole": "André Lotterer"
+                },
+                {
+                    "year": 2019,
+                    "date_iso": "2019-02-16",
+                    "status": "held",
+                    "date": "Feb 16, 2019",
+                    "winner": "Lucas di Grassi (BRA)",
+                    "team": "Audi Sport ABT Schaeffler",
+                    "pole": "Pascal Wehrlein"
+                },
+                {
+                    "year": 2018,
+                    "date_iso": "2018-03-03",
+                    "status": "held",
+                    "date": "Mar 3, 2018",
+                    "winner": "Daniel Abt (GER)",
+                    "team": "Audi Sport ABT Schaeffler",
+                    "pole": "Felix Rosenqvist"
+                },
+                {
+                    "year": 2017,
+                    "date_iso": "2017-04-01",
+                    "status": "held",
+                    "date": "Apr 1, 2017",
+                    "winner": "Lucas di Grassi (BRA)",
+                    "team": "ABT Schaeffler Audi Sport",
+                    "pole": "Oliver Turvey"
+                },
+                {
+                    "year": 2016,
+                    "date_iso": "2016-03-12",
+                    "status": "held",
+                    "date": "Mar 12, 2016",
+                    "winner": "Jérôme d’Ambrosio (BEL)",
+                    "team": "Dragon Racing",
+                    "pole": "Jérôme d’Ambrosio"
+                }
+            ]
+        },
+        {
+            "event": "Puebla E-Prix (Formula E)",
+            "table": "The two 2021 races held in Puebla instead of Mexico City",
+            "page": "https://race.mx/mexico-race-winners/formula-e-mexico-city-winners/",
+            "columns": [
+                "date",
+                "winner",
+                "team",
+                "note"
+            ],
+            "rows": [
+                {
+                    "year": 2021,
+                    "date_iso": "2021-06-19",
+                    "status": "held",
+                    "date": "Jun 19, 2021",
+                    "winner": "Lucas di Grassi (BRA)",
+                    "team": "Audi",
+                    "note": "Awarded the win after Wehrlein’s disqualification"
+                },
+                {
+                    "year": 2021,
+                    "date_iso": "2021-06-20",
+                    "status": "held",
+                    "date": "Jun 20, 2021",
+                    "winner": "Edoardo Mortara (SUI)",
+                    "team": "Venturi",
+                    "note": "Oliver Rowland on pole"
+                }
+            ]
+        },
+        {
+            "event": "NASCAR Mexico Series",
+            "table": "Champions by season",
+            "page": "https://race.mx/mexico-race-winners/nascar-mexico-champions/",
+            "columns": [
+                "year",
+                "series_name",
+                "champion"
+            ],
+            "rows": [
+                {
+                    "year": 2025,
+                    "status": "held",
+                    "series_name": "NASCAR Mexico Series",
+                    "champion": "Alex de Alba Jr."
+                },
+                {
+                    "year": 2024,
+                    "status": "held",
+                    "series_name": "NASCAR Mexico Series",
+                    "champion": "Rubén García Jr."
+                },
+                {
+                    "year": 2023,
+                    "status": "held",
+                    "series_name": "NASCAR Mexico Series",
+                    "champion": "Salvador de Alba Jr."
+                },
+                {
+                    "year": 2022,
+                    "status": "held",
+                    "series_name": "NASCAR Mexico Series",
+                    "champion": "Rubén García Jr."
+                },
+                {
+                    "year": 2021,
+                    "status": "held",
+                    "series_name": "NASCAR PEAK Mexico Series",
+                    "champion": "Salvador de Alba Jr."
+                },
+                {
+                    "year": 2020,
+                    "status": "held",
+                    "series_name": "NASCAR PEAK Mexico Series",
+                    "champion": "Rubén Rovelo"
+                },
+                {
+                    "year": 2019,
+                    "status": "held",
+                    "series_name": "NASCAR PEAK Mexico Series",
+                    "champion": "Rubén García Jr."
+                },
+                {
+                    "year": 2018,
+                    "status": "held",
+                    "series_name": "NASCAR PEAK Mexico Series",
+                    "champion": "Rubén García Jr."
+                },
+                {
+                    "year": 2017,
+                    "status": "held",
+                    "series_name": "NASCAR PEAK Mexico Series",
+                    "champion": "Abraham Calderón"
+                },
+                {
+                    "year": 2016,
+                    "status": "not_held",
+                    "series_name": "No season (series suspended)",
+                    "champion": "—"
+                },
+                {
+                    "year": 2015,
+                    "status": "held",
+                    "series_name": "NASCAR México Series",
+                    "champion": "Rubén García Jr."
+                },
+                {
+                    "year": 2014,
+                    "status": "held",
+                    "series_name": "NASCAR Toyota Series",
+                    "champion": "Abraham Calderón"
+                },
+                {
+                    "year": 2013,
+                    "status": "held",
+                    "series_name": "NASCAR Toyota Series",
+                    "champion": "Rodrigo Peralta"
+                },
+                {
+                    "year": 2012,
+                    "status": "held",
+                    "series_name": "NASCAR Toyota Series",
+                    "champion": "Jorge Goeters"
+                },
+                {
+                    "year": 2011,
+                    "status": "held",
+                    "series_name": "NASCAR Corona Series",
+                    "champion": "Germán Quiroga"
+                },
+                {
+                    "year": 2010,
+                    "status": "held",
+                    "series_name": "NASCAR Corona Series",
+                    "champion": "Germán Quiroga"
+                },
+                {
+                    "year": 2009,
+                    "status": "held",
+                    "series_name": "NASCAR Corona Series",
+                    "champion": "Germán Quiroga"
+                },
+                {
+                    "year": 2008,
+                    "status": "held",
+                    "series_name": "NASCAR Corona Series",
+                    "champion": "Antonio Pérez"
+                },
+                {
+                    "year": 2007,
+                    "status": "held",
+                    "series_name": "NASCAR Corona Series",
+                    "champion": "Rafael Martínez"
+                },
+                {
+                    "year": 2006,
+                    "status": "held",
+                    "series_name": "Desafío Corona",
+                    "champion": "Rogelio López"
+                },
+                {
+                    "year": 2005,
+                    "status": "held",
+                    "series_name": "Desafío Corona",
+                    "champion": "Jorge Goeters"
+                },
+                {
+                    "year": 2004,
+                    "status": "held",
+                    "series_name": "Desafío Corona",
+                    "champion": "Carlos Pardo"
+                }
+            ]
+        }
+    ]
+}

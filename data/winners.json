@@ -1,0 +1,45 @@
+{
+    "name": "Race.mx winners data",
+    "license": "CC BY 4.0 — attribute Race.mx and link to https://race.mx",
+    "updated": "2026-09-18T08:51:11-06:00",
+    "source": "https://race.mx",
+    "note": "Summary of the most recent winners. The full year-by-year history, generated from the tables on the pages listed in \"sources\", is at https://race.mx/data/winners-history.json and https://race.mx/data/winners-history.csv.",
+    "winners": [
+        {
+            "event": "Mexico City Grand Prix (F1)",
+            "year": 2025,
+            "winner": "Lando Norris",
+            "team": "McLaren",
+            "source": "https://race.mx/mexico-race-winners/mexico-grand-prix-winners/"
+        },
+        {
+            "event": "SCORE Baja 1000",
+            "year": 2025,
+            "winner": "Christopher Polvoorde / Bryce Menzies",
+            "team": "Ford Raptor Trophy Truck",
+            "time": "15:48:24",
+            "source": "https://race.mx/mexico-race-winners/baja-1000-winners/"
+        },
+        {
+            "event": "SCORE Baja 500",
+            "year": 2026,
+            "winner": "Luke McMillin",
+            "team": "Ford Raptor Trophy Truck",
+            "time": "9:10:54",
+            "source": "https://race.mx/mexico-race-winners/baja-500-winners/"
+        },
+        {
+            "event": "Mexico City E-Prix (Formula E)",
+            "year": 2026,
+            "winner": "Nick Cassidy",
+            "team": "Citroën",
+            "source": "https://race.mx/mexico-race-winners/formula-e-mexico-city-winners/"
+        },
+        {
+            "event": "NASCAR Mexico Series championship",
+            "year": 2025,
+            "winner": "Alex de Alba Jr.",
+            "source": "https://race.mx/mexico-race-winners/nascar-mexico-champions/"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Race.mx venues data",
+    "license": "CC BY 4.0 — attribute Race.mx and link to https://race.mx",
+    "updated": "2026-09-18T08:51:10-06:00",
+    "source": "https://race.mx",
+    "venues": [
+        {
+            "name": "Autódromo de Querétaro (EcoCentro Expositor)",
+            "location": "El Marqués, Querétaro",
+            "length": "1.438 miles / 2.314 km",
+            "surface": "Asphalt",
+            "lap_record": "0:56.353 – Rudy Camarillo, Formula Abarth (2013)",
+            "latitude": 20.5864,
+            "longitude": -100.3281,
+            "url": "https://race.mx/pistas/autodromo-de-queretaro/"
+        },
+        {
+            "name": "Autódromo Hermanos Rodríguez",
+            "location": "Mexico City, CDMX",
+            "length": "2.674 miles / 4.304 km",
+            "surface": "Asphalt",
+            "lap_record": "1:17.774 – Valtteri Bottas, Mercedes (F1, 2021)",
+            "latitude": 19.4061,
+            "longitude": -99.0925,
+            "url": "https://race.mx/pistas/autodromo-hermanos-rodriguez/"
+        },
+        {
+            "name": "Autódromo Miguel E. Abed",
+            "location": "Amozoc, Puebla",
+            "length": "2.090 miles / 3.363 km",
+            "surface": "Asphalt",
+            "lap_record": "1:25.465 – Mariano del Castillo, Formula Abarth (2018)",
+            "latitude": 19.03,
+            "longitude": -97.9881,
+            "url": "https://race.mx/pistas/autodromo-miguel-e-abed/"
+        },
+        {
+            "name": "Autódromo Monterrey",
+            "location": "Apodaca, Nuevo León",
+            "length": "1.988 miles / 3.200 km",
+            "surface": "Asphalt",
+            "lap_record": "1:05.161 – Waldemar Coronas, Lola T96/20 (2000)",
+            "latitude": 25.8561,
+            "longitude": -100.2172,
+            "url": "https://race.mx/pistas/autodromo-monterrey/"
+        },
+        {
+            "name": "Autódromo Yucatán (Emerson Fittipaldi)",
+            "location": "Progreso (near Mérida), Yucatán",
+            "length": "3.34 km (2.075 mi), 18 turns",
+            "surface": "Asphalt",
+            "lap_record": "",
+            "latitude": 21.18,
+            "longitude": -89.65,
+            "url": "https://race.mx/pistas/autodromo-yucatan/"
+        },
+        {
+            "name": "Ensenada – SCORE Baja Race Start/Finish",
+            "location": "Ensenada, Baja California",
+            "length": "Varies by race (2026 Baja 500: 468.7 miles / 754 km)",
+            "surface": "Dirt / Off-Road",
+            "lap_record": "",
+            "latitude": 31.8667,
+            "longitude": -116.6,
+            "url": "https://race.mx/pistas/ensenada-score-baja-start-finish/"
+        },
+        {
+            "name": "Los Cabos – 2026 Baja 1000 Start/Finish",
+            "location": "San José del Cabo, Los Cabos, Baja California Sur (exact site TBA)",
+            "length": "2026 course: single loop (official distance TBA)",
+            "surface": "Dirt / Off-Road",
+            "lap_record": "",
+            "latitude": 23.06,
+            "longitude": -109.7,
+            "url": "https://race.mx/pistas/san-jose-del-cabo-baja-1000-start-finish/"
+        },
+        {
+            "name": "Óvalo Aguascalientes México",
+            "location": "Aguascalientes, Aguascalientes",
+            "length": "0.875 miles / 1.408 km",
+            "surface": "Concrete",
+            "lap_record": "0:23.544 – Rubén García Jr., NASCAR Toyota Camry (2018)",
+            "latitude": 21.7231,
+            "longitude": -102.3275,
+            "url": "https://race.mx/pistas/ovalo-aguascalientes/"
+        },
+        {
+            "name": "San Felipe – SCORE Baja Race Start/Finish",
+            "location": "San Felipe, Baja California",
+            "length": "Varies by race (2026 San Felipe 250 distance not published by SCORE)",
+            "surface": "Dirt / Off-Road",
+            "lap_record": "",
+            "latitude": 31.0244,
+            "longitude": -114.8397,
+            "url": "https://race.mx/pistas/san-felipe-score-baja-start-finish/"
+        },
+        {
+            "name": "Súper Óvalo Chiapas",
+            "location": "Berriozábal, Chiapas",
+            "length": "0.75 miles / 1.21 km",
+            "surface": "Asphalt",
+            "lap_record": "",
+            "latitude": 16.7787,
+            "longitude": -93.2507,
+            "url": "https://race.mx/pistas/super-ovalo-chiapas/"
+        },
+        {
+            "name": "Súper Óvalo Potosino",
+            "location": "San Luis Potosí, San Luis Potosí",
+            "length": "0.500 miles / 0.804 km",
+            "surface": "Asphalt",
+            "lap_record": "0:21.706 – Rafael Martínez, Canel's Ford #18 (2007 Corona Series)",
+            "latitude": 22.09139,
+            "longitude": -100.72556,
+            "url": "https://race.mx/pistas/super-ovalo-potosino/"
+        },
+        {
+            "name": "Tulum Airport Circuit (NASCAR Mexico)",
+            "location": "Tulum, Quintana Roo",
+            "length": "Temporary layout; length not published by NASCAR Mexico",
+            "surface": "Asphalt",
+            "lap_record": "",
+            "latitude": 20.2283,
+            "longitude": -87.5836,
+            "url": "https://race.mx/pistas/tulum-airport-circuit/"
+        }
+    ]
+}
