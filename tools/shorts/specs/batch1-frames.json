@@ -1,0 +1,44 @@
+{
+"s2": {"theme": "electric", "pages": [
+  [["big","4 POLES"],["pill","Pascal Wehrlein · Mexico City E-Prix"]],
+  [["h","POLE POSITION"],["big","2019 · 2022"],["big","2024 · 2025"]],
+  [["big","2 WINS"],["sub","2022 · 2024"]],
+  [["h","LUCAS DI GRASSI"],["big","×2"],["sub","2017 · 2019"]],
+  [["h","2026 WINNER"],["big","CASSIDY"],["sub","Nick Cassidy · Citroën"]],
+  [["h","NEXT E-PRIX"],["big","JAN 16"],["sub","2027 · Mexico City"],["big","race.mx"]]]},
+"s3": {"theme": "desert", "pages": [
+  [["big","8:20:55"],["pill","Quickest Baja 500 winning time since 2010"]],
+  [["h","TAVO VILDÓSOLA JR."],["big","2016"],["sub","Ford Raptor"]],
+  [["h","BRYCE MENZIES"],["big","×4"],["sub","2011 · 2012 · 2014 · 2023"]],
+  [["h","BIKES BEAT TRUCKS"],["big","×3"],["sub","2010 · 2011 · 2013"]],
+  [["h","2026 WINNER"],["big","9:10:54"],["sub","Luke McMillin · Ford Raptor"]],
+  [["h","EVERY WINNER"],["h","SINCE 2010"],["big","race.mx"]]]},
+"s4": {"theme": "desert", "pages": [
+  [["big","6 BIKE WINS"],["pill","Justin Morgan · Baja 1000"]],
+  [["h","FASTEST BIKE TEAM"],["big","2018 · 2019"],["big","2020 · 2021"],["big","2022 · 2024"]],
+  [["h","2018: BIKES BEAT TRUCKS"],["big","16:23:26"],["sub","Honda"]],
+  [["h","2025 BIKE WINNERS"],["big","17:55:39"],["sub","Tyler Lynn · David Kamo · Carter Klein"]],
+  [["h","RACE WEEK 2026"],["big","NOV 9–15"],["sub","Los Cabos"]],
+  [["h","EVERY WINNER"],["h","SINCE 1967"],["big","race.mx"]]]},
+"s5": {"theme": "night", "pages": [
+  [["big","3 POLES."],["big","1 WIN."],["pill","Ayrton Senna in Mexico"]],
+  [["h","POLE POSITION"],["big","1986"],["big","1988 · 1989"]],
+  [["h","HIS ONLY WIN HERE"],["big","1989"],["sub","McLaren-Honda"]],
+  [["h","ALAIN PROST"],["big","×2"],["sub","1988 · 1990"]],
+  [["h","NIGEL MANSELL"],["big","×2"],["sub","1987 · 1992"]],
+  [["h","MEXICO CITY GP"],["big","OCT 30–NOV 1"],["big","race.mx"]]]},
+"s6": {"theme": "night", "pages": [
+  [["h","MEXICO'S TRACKS"],["big","LAP"],["big","RECORDS"]],
+  [["h","HERMANOS RODRÍGUEZ"],["big","1:17.774"],["sub","Valtteri Bottas · 2021"],["small","4.304 km · Mexico City"]],
+  [["h","QUERÉTARO"],["big","0:56.353"],["sub","Rudy Camarillo · 2013"],["small","2.314 km · El Marqués"]],
+  [["h","PUEBLA"],["big","1:25.465"],["sub","Mariano del Castillo · 2018"],["small","Autódromo Miguel E. Abed · 3.363 km"]],
+  [["h","MONTERREY"],["big","1:05.161"],["sub","Waldemar Coronas · 2000"],["small","3.200 km · Apodaca"]],
+  [["h","EVERY TRACK"],["h","LENGTH · RECORD"],["big","race.mx"]]]},
+"s7": {"theme": "electric", "pages": [
+  [["h","THE YEAR"],["h","FORMULA E"],["h","LEFT MEXICO CITY"],["big","2021"]],
+  [["h","PUEBLA"],["big","2 RACES"],["sub","June 19–20, 2021"]],
+  [["h","RACE 1"],["big","DSQ"],["sub","Pascal Wehrlein disqualified"]],
+  [["h","WIN AWARDED"],["big","DI GRASSI"],["sub","Lucas di Grassi · Audi"]],
+  [["h","RACE 2"],["big","MORTARA"],["sub","Edoardo Mortara · Venturi"]],
+  [["h","BACK IN MEXICO CITY"],["sub","Next E-Prix: Jan 16, 2027"],["big","race.mx"]]]}
+}
