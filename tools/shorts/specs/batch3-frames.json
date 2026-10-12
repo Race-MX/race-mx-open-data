@@ -1,0 +1,13 @@
+{
+ "b11": {
+  "theme": "night",
+  "pages": [
+   [["h","NOT ALWAYS"],["h","THE SAME ROUTE"],["sub","Baja 1000 courses, 2000 to 2025"]],
+   [["h","POINT TO POINT"],["big","11 of 26"],["sub","races since 2000"]],
+   [["h","ONE CITY"],["h","TO ANOTHER"],["sub","not a loop"]],
+   [["h","2023"],["sub","La Paz to Ensenada"],["big","1,310.9"],["sub","miles"]],
+   [["h","2026"],["sub","Los Cabos start and finish"],["sub","one loop"],["big","NOV 9"]],
+   [["h","DISTANCE TBA"],["sub","Winners since 1967 on race.mx"]]
+  ]
+ }
+}
